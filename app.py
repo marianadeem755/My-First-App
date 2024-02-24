@@ -15,7 +15,7 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score, a
 import pickle
 
 # Title and description
-st.title("Machine Learning Application Created by Maria")
+st.title("Machine Learning Application Created by Maria Nadeem")
 st.write("This application allows you to perform machine learning tasks such as data loading, preprocessing, model selection, training, evaluation, and prediction.")
 
 # Greetings button
